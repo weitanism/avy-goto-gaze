@@ -1,0 +1,13 @@
+---
+BasedOnStyle: LLVM
+---
+Language: Cpp
+AllowShortFunctionsOnASingleLine: Empty
+SpacesInContainerLiterals: false
+SpacesBeforeTrailingComments: 2
+AlwaysBreakTemplateDeclarations: Yes
+IndentCaseLabels: true
+IndentWidth: 4
+BinPackArguments: false
+BinPackParameters: false
+...
